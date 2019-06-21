@@ -1,8 +1,12 @@
 {
   "name": "eslint-config-scrlk",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "ScrLk ESLint custom preset",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Tymek/eslint-config-scrlk.git"
+  },
   "author": "Tymoteusz Czech <tymek@scrlk.pl>",
   "license": "MIT",
   "scripts": {

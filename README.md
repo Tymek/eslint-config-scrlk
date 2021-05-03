@@ -1,7 +1,16 @@
 # ESLint custom preset ScrLk
 
 ``` sh
+yarn add elint-config-scrlk
 npx install-peerdeps --dev eslint-config-scrlk
 ```
 
-Opinionated config extending [`eslint-config-airbnb`](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb). Includes [`eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn) and more.
+Opinionated config. Includes [`eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn) and more.
+
+
+## Prettier
+
+`.prettierrc.js`
+```js
+module.exports = require('eslint-config-scrlk/prettier.json')
+```

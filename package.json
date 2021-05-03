@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-scrlk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ScrLk ESLint custom preset",
   "main": "index.js",
   "files": [

@@ -1,7 +1,7 @@
 # ESLint custom preset ScrLk
 
 ``` sh
-yarn add elint-config-scrlk
+yarn add eslint-config-scrlk
 npx install-peerdeps --dev eslint-config-scrlk
 ```
 
